@@ -1,0 +1,15 @@
+D:\Code\GB\Task-lec-1\bin\Debug\net6.0\Task-lec-1.exe
+D:\Code\GB\Task-lec-1\bin\Debug\net6.0\Task-lec-1.deps.json
+D:\Code\GB\Task-lec-1\bin\Debug\net6.0\Task-lec-1.runtimeconfig.json
+D:\Code\GB\Task-lec-1\bin\Debug\net6.0\Task-lec-1.dll
+D:\Code\GB\Task-lec-1\bin\Debug\net6.0\Task-lec-1.pdb
+D:\Code\GB\Task-lec-1\obj\Debug\net6.0\Task-lec-1.csproj.AssemblyReference.cache
+D:\Code\GB\Task-lec-1\obj\Debug\net6.0\Task-lec-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\GB\Task-lec-1\obj\Debug\net6.0\Task-lec-1.AssemblyInfoInputs.cache
+D:\Code\GB\Task-lec-1\obj\Debug\net6.0\Task-lec-1.AssemblyInfo.cs
+D:\Code\GB\Task-lec-1\obj\Debug\net6.0\Task-lec-1.csproj.CoreCompileInputs.cache
+D:\Code\GB\Task-lec-1\obj\Debug\net6.0\Task-lec-1.dll
+D:\Code\GB\Task-lec-1\obj\Debug\net6.0\refint\Task-lec-1.dll
+D:\Code\GB\Task-lec-1\obj\Debug\net6.0\Task-lec-1.pdb
+D:\Code\GB\Task-lec-1\obj\Debug\net6.0\Task-lec-1.genruntimeconfig.cache
+D:\Code\GB\Task-lec-1\obj\Debug\net6.0\ref\Task-lec-1.dll

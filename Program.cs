@@ -1,6 +1,8 @@
 ﻿// Создадим функцию замены символов
+string strTest = "Hello, World!";
 
-Console.WriteLine("Hello, World!");
+
+Console.WriteLine(Replace(strTest,' ','_'));
 
 string Replace(string strInput, char charFind, char charNew)
 {
